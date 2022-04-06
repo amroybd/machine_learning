@@ -1,0 +1,30 @@
+HEADER
+VTF File Version,1.0
+VTF File Type,0
+PID,1105181
+Generated on,2022-03-21 11:49:33
+Resolution,ms
+Min Resolution,ns
+Trace Version,1.0
+XRT Version,2021.1
+
+STRUCTURE
+Group_Start,Native API Host Trace
+Dynamic_Row,1,Native XRT API Calls,API Events
+Group_Start,Host to Device Data Transfers
+Dynamic_Row,2,Reads,Read Transfers
+Dynamic_Row,3,Writes,Write Transfers
+Group_End,Host to Device Data Transfers
+Group_End,Native API Host Trace
+
+MAPPING
+1,xrt::device::device
+
+EVENTS
+1,0,1.940491,1,API_CALL,1
+2,1,7.933771,1,API_CALL,1
+3,0,123.484533,1,API_CALL,1
+4,3,129.599655,1,API_CALL,1
+
+DEPENDENCIES
+
