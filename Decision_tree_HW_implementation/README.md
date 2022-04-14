@@ -2,7 +2,7 @@
 This is an example of how to implement a decision tree on an FPGA board. The decision tree was trained using Sklearn. The dataset
 can be downloaded from [here](https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep). For hardware implementation, I have used [Vitis 
 hello world example](https://github.com/Xilinx/Vitis_Accel_Examples/tree/master/host_xrt/hello_world_xrt) as a reference to build the hardware for FPGA. Here, I have also
-demonstrated how to converte the decision tree model to if-else code and also covert the tree into a decision table. Also demonstrated how to use that if-else code and
+demonstrated how to convert the decision tree model to if-else code and also covert the tree into a decision table. Also demonstrated how to use that if-else code and
 decision table to make predictions.
 
 ## Train the model
