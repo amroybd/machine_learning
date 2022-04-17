@@ -4,3 +4,4 @@
 - Sklearn_Decision_Tree_Implemented_on_FPGA: Decision tree to if-else code and then implement that if-else code into FPGA ( Alveo )
 - CNN_float32_to_int8_conversion.ipynb: CNN model training and convert float32 model to int8 model
 - CNN_for_Human_activity.ipynb: Implement non image data into CNN
+- image_classification.ipynb: Train a CNN model anduse of data pipelining and data augmentation.
