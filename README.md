@@ -8,6 +8,6 @@
 
 **- CNN_for_Human_activity.ipynb:** Implement non image data into CNN
 
-**- image_classification.ipynb:** Train a CNN model anduse of data pipelining and data augmentation. [Dataset used](https://www.kaggle.com/arjuntejaswi/plant-village) for the model training
+**- image_classification.ipynb:** Train a CNN model and demonstrated the use of data pipelining and data augmentation. [Dataset used](https://www.kaggle.com/arjuntejaswi/plant-village) for the model training
 
 **- large_tree_to_decision_table.ipynb:** The tree trained in this notebook has 128189 nodes. Which is a very large decision tree. Here, I have demonstrated how any tree can be converted into a decision table and use that table to make predictions.
