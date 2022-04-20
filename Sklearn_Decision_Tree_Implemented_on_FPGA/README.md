@@ -1,4 +1,4 @@
-# Implement decision tree on FPGA
+# Implement decision tree on FPGA (alveo u280 data center accelerator card)
 This is an example of how to implement a small decision tree ( max depth approx. 10 or less) on an FPGA board. The decision tree was trained using Sklearn. The dataset can be downloaded from [here](https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep). For hardware implementation, I have used [Vitis hello world example](https://github.com/Xilinx/Vitis_Accel_Examples/tree/master/host_xrt/hello_world_xrt) as a reference to build the hardware for FPGA (alveo u280 data center accelerator card). Remember this solution will only work for a small decision tree.
 ## Train the model
 Go to the Training folder where you will find the notebook which can be used to train the model. 
