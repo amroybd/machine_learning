@@ -1,4 +1,4 @@
-# machine_learning
+# Machine Learning
 ## Description of the folders and files
 **- Decision_tree_HW_implementation:** Decision tree to if-else code and decision table. Then implement the decision table into FPGA ( alveo u280 data center accelerator card )
 
